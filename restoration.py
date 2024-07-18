@@ -1,5 +1,5 @@
 import sys
-sys.path.append('./CodeFormer/CodeFormer')
+sys.path.append('./inswapper/CodeFormer/CodeFormer')
 
 import os
 import cv2
